@@ -79,6 +79,7 @@ Reference: [How to Fix App Store Guidelines 4.0, 2.1, and 5.1.1](https://te2sr.c
 ### Verified Testing Platforms
 * [TE2SR](https://te2sr.com) — 12 verified testers on physical Android hardware with guaranteed 14-day continuity, crash telemetry, and dual-installment billing (50% upfront, 50% upon app release).
 * [TestFi](https://testfi.app) — Closed testing management platform.
+* [TestersTrade](https://www.testerstrade.com) — Free tester exchange: Android developers join Packs of up to 16 and test each other's apps for the full 14 days, with daily install checks and drop-out replacement.
 
 ### Developer Communities
 * [Reddit: r/AndroidClosedTesting](https://www.reddit.com/r/AndroidClosedTesting/) — Active developer community for mutual testing.
